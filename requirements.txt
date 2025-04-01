@@ -1,0 +1,10 @@
+langchain_ollama
+streamlit
+langchain
+langchain_core
+dotenv
+langchain_community
+youtube_transcript_api
+pytube
+ffmpeg
+faiss-cpu
